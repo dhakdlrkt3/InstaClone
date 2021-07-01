@@ -1,0 +1,11 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[typescript]": {
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+}
